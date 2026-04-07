@@ -40,8 +40,8 @@ Todos los componentes (IntelliJ, Copilot, JDK, Git, Docker y Zoom) deben estar i
 ### Sesión 1 — IA en el desarrollo profesional con Spring
 
 1. [El rol de la IA en el desarrollo profesional con Spring](teoria/01.ai_in_development.md)
-2. [teoria/02.copilot_claude_y_alternativas.md] (Copilot, Claude y alternativas: escogiendo la mejor estrategia multi-herramienta)
-3. [teoria/02b.preparacion_entorno_ide_ia_maximo_rendimiento.md] (Preparación del entorno IDE + IA para máximo rendimiento)
+2. [Copilot, Claude y alternativas: escogiendo la mejor estrategia multi-herramienta](teoria/02.copilot_claude_y_alternativas.md) 
+3. [Preparación del entorno IDE + IA para máximo rendimiento](teoria/02b.preparacion_entorno_ide_ia_maximo_rendimiento.md)
 
 ### Cuestionarios
 
